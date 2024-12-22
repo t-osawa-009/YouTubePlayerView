@@ -2,6 +2,8 @@
 
 A simple and customizable SwiftUI view to embed YouTube videos in your iOS apps using `WKWebView`. This component supports features like inline playback, autoplay, and mute, making it easy to integrate YouTube videos with full control over playback settings.
 
+<img src="https://github.com/t-osawa-009/YouTubePlayerView/blob/main/simulator_screenshot.png?raw=true" width="300">
+
 ## Features
 
 - Embed YouTube videos seamlessly in SwiftUI.
